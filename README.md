@@ -6,11 +6,3 @@ This repository contains two Jupyter notebooks:
 
 2. **Autoencoders using Convolutional Neural Networks (CNN)**: This notebook demonstrates how to implement autoencoders using CNNs. It provides a comprehensive guide on how to build, train, and evaluate autoencoders.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
